@@ -1,5 +1,5 @@
 {
-    "name": "alex/hello-world",
+    "name": "alex-for-test/hello-world",
     "description": "My first Composer project for test",
     "type": "symfony-bundle",
     "license": "MIT",
